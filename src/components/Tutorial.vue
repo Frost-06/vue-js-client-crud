@@ -27,6 +27,7 @@
     >
       UnPublish
     </button>
+    
     <button v-else class="badge badge-primary mr-2"
       @click="updatePublished(true)"
     >
